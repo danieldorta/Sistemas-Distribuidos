@@ -1,9 +1,12 @@
 # Protótipo
 
-## Tema: Criação de um serviço de E-Commerce (Loja de Óculos Masculino via
-Browser).
+## Tema: 
 
-## Tecnologias: Java, MySQL, Cloud, HTML, Internet.
+Criação de um serviço de E-Commerce (Loja de Óculos Masculino via Browser).
+
+## Tecnologias: 
+
+Java, MySQL, Cloud, HTML, Internet.
 
 ## Diagrama
 
