@@ -38,4 +38,6 @@ dos usuários do sistema ficará armazenados, e também informações sobre os
 produtos. Colocamos um banco de dados de backup para garantir a operabilidade
 do sistema em caso de nosso banco principal falhar.
 
+![arc logica](https://user-images.githubusercontent.com/71103252/94868746-287eee00-041a-11eb-8022-3f53e08f9abd.jpg)
+
 
