@@ -53,3 +53,11 @@ garantir certa segurança as falhas que podem ser causadas, porém se tivermos u
 bom servidor na nuvem que nos garanta escalabilidade, e seja funcional, esse não
 será um grande problema.
 
+## Telas 
+
+![tela1](https://user-images.githubusercontent.com/71103252/94869337-8a8c2300-041b-11eb-81d9-7bd545baf4c9.png)
+
+![tela 2](https://user-images.githubusercontent.com/71103252/94869334-89f38c80-041b-11eb-9bd5-e813bc933e53.png)
+
+![tela 3](https://user-images.githubusercontent.com/71103252/94869338-8b24b980-041b-11eb-9380-e172626288db.png)
+
